@@ -6,7 +6,7 @@ name: Build and deploy JAR app to Azure Web App - eksamen-teknologi
 on:
   push:
     branches:
-      - master
+      - master // når man pusher op i master branchen så trigger den nogle jobs
   workflow_dispatch:
 
 jobs:
