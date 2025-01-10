@@ -5,5 +5,6 @@ public class B {
         System.out.println("hej");
         System.out.println("hello");
         System.out.println("hello");
+        System.out.println("hej");
     }
 }
