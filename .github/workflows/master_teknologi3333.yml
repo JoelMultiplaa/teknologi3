@@ -13,7 +13,7 @@ jobs:
   build:
     runs-on: windows-latest
     permissions:
-      contents: read #This is required for actions/checkoutjjj
+      contents: read #This is required for actions/checkoutjjjkkkk
 
     steps:
       - uses: actions/checkout@v4
